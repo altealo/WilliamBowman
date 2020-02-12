@@ -5,5 +5,8 @@
 | [Charles Bracebridge](https://github.com/altealo/CharlesBracebridge/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Sir James Clark](https://github.com/altealo/JamesClark/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 | [Sidney Herbert](https://github.com/altealo/SidneyHerbert/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+| [Sir Francis Galton](https://github.com/altealo/FrancisGalton/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
+https://www.eurotimes.org/a-modest-scholar/
+
 | [Richard Milnes](https://github.com/altealo/RichardMilnes/blob/master/README.md)  |[Welcome Institute. *Sidney Herbert*](http://www.florence-nightingale-avenging-angel.co.uk/goldie/goldieitems/4_184.htm)|
 
